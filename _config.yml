@@ -1,9 +1,9 @@
-title: AI Conference Deadlines # (Maintained by @abhshkdz)
-# email: abhshkdz@vt.edu
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
+title: AI Conference Deadlines # (Maintained by @FinYang)
+# email: Fin.Yang@monash.edu
+description: Countdowns to SP/ML/DM/IT/Optimization conference deadlines. This page is maintained as a fork from aideadlin.es
 author: Abhishek Das
 
-domain: "aideadlin.es"
+domain: "zhaogroup.netlify.app"
 baseurl: ""
 
 twitter_username: abhshkdz
