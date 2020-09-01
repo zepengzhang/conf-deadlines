@@ -1,17 +1,17 @@
 title: AI Conference Deadlines # (Maintained by @FinYang)
 # email: Fin.Yang@monash.edu
-description: Countdowns to SP/ML/DM/IT/Optimization conference deadlines. This page is maintained as a fork from aideadlin.es
-author: Abhishek Das
+description: Countdowns to SP/ML/DM/IT/Optimization conference deadlines.
+author: Fin Yang
+author_link: https://yangzhuoranyang.com/
 
 domain: "zhaogroup.netlify.app"
 baseurl: ""
 
-twitter_username: abhshkdz
-twitter_hashtag: machinelearning
-github_username: abhshkdz
+twitter_username: YangzhuoranY
+twitter_hashtag:
+github_username: FinYang
 github_repo: ai-deadlines
 
-markdown: kramdown
 ga_id: UA-129140417-1
 
 include: ['_pages']
