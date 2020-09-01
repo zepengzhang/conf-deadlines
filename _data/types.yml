@@ -1,8 +1,8 @@
 ---
-- name: Machine Learning
-  sub: ML
 - name: Speech/SigProc
   sub: SP
+- name: Machine Learning
+  sub: ML
 - name: Data Mining
   sub: DM
 - name: Information Theory
