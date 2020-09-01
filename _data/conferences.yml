@@ -12,29 +12,6 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on September 01, 2020'
 
-- title: EACL
-  hindex: 36
-  year: 2021
-  id: eacl21
-  link: https://2021.eacl.org/
-  deadline: '2020-09-20 23:59:00'
-  timezone: UTC-12
-  date: April 21-23, 2021
-  place: Kyiv, Ukraine
-  sub: NLP
-
-- title: WACV
-  hindex: 46
-  year: 2021
-  id: wacv21
-  link: http://wacv2021.thecvf.com/
-  deadline: '2020-09-29 23:59:59'
-  timezone: America/Los_Angeles
-  date: January 5-9, 2021
-  place: Waikoloa, Hawaii, USA
-  sub: CV
-  note: '<b>NOTE</b>: Second round submission deadline.'
-
 - title: ICLR
   hindex: 150
   year: 2021
@@ -97,40 +74,6 @@
   sub: DM
   note: '<b>NOTE</b>: Mandatory abstract deadline on October 12, 2020'
 
-- title: CVPR
-  hindex: 299
-  year: 2021
-  id: cvpr21
-  link: http://cvpr2021.thecvf.com/
-  deadline: '2020-11-16 23:59:59'
-  timezone: America/Los_Angeles
-  date: June 19-25, 2021
-  place: Nashville, USA
-  sub: CV
-  note: '<b>NOTE</b>: Deadline timezone yet to be confirmed'
-
-- title: ICCV
-  hindex: 176
-  year: 2021
-  id: iccv2021
-  link: http://iccv2021.thecvf.com/
-  deadline: '2021-03-17 23:59:00'
-  timezone: America/Los_Angeles
-  date: October 11-17, 2021
-  place: Montreal, Canada
-  sub: CV
-
-- title: ICRA
-  hindex: 82
-  year: 2020
-  id: icra20
-  link: https://icra2020.org/
-  deadline: '2019-09-15 23:59:59'
-  timezone: America/Los_Angeles
-  date: May 31-June 4, 2020
-  place: Paris, France
-  sub: RO
-
 - title: ALT
   hindex: 15
   year: 2020
@@ -141,18 +84,6 @@
   date: February 08-10, 2020
   place: San Diego, CA, United States
   sub: ML
-
-- title: HRI
-  hindex: 40
-  year: 2020
-  id: hri20
-  link: https://humanrobotinteraction.org/2020/
-  deadline: '2019-10-01 23:59:59'
-  timezone: America/Los_Angeles
-  date: March 23-26, 2020
-  place: Cambridge, UK
-  sub: RO
-
 
 - title: ICAPS
   hindex: 28
@@ -166,39 +97,6 @@
   place: Nancy, France
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Nov 15, 2019. More info <a href=''https://icaps20.icaps-conference.org/''>here</a>.'
-
-- title: LREC
-  hindex: 45
-  year: 2020
-  id: lrec20
-  link: https://lrec2020.lrec-conf.org/en/
-  deadline: '2019-12-02 23:59:59'
-  timezone: Europe/Paris
-  date: May 11-16, 2020
-  place: Marseille, France
-  sub: NLP
-
-- title: ACL
-  hindex: 26
-  year: 2020
-  id: acl20
-  link: https://acl2020.org/
-  deadline: '2019-12-09 23:59:59'
-  timezone: UTC-12
-  date: July 6-8, 2020
-  place: Seattle, Washington, USA
-  sub: NLP
-
-- title: ICMR
-  hindex: 33
-  year: 2020
-  id: icmr20
-  link: http://icmr2020.org/
-  deadline: '2020-01-11 23:59:59'
-  timezone: Europe/London
-  date: June 8-11, 2020
-  place: Dublin, Ireland
-  sub: CV
 
 - title: CHIL
   hindex: -1
@@ -224,17 +122,6 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 15, 2020. More info <a href=''https://www.ijcai19.org/''>here</a>.'
 
-- title: SIGGRAPH
-  hindex: 20
-  year: 2020
-  id: siggraph20
-  link: https://s2020.siggraph.org/
-  deadline: '2020-01-22 22:00:00'
-  timezone: America/Los_Angeles
-  date: July 19-23, 2020
-  place: Washington, D.C., USA
-  sub: CV
-
 - title: SIGIR
   hindex: 55
   year: 2020
@@ -247,17 +134,6 @@
   place: Xi'an, China
   sub: DM
 
-- title: MIDL
-  hindex: -1
-  year: 2020
-  id: midl2020
-  link: https://2020.midl.io/
-  deadline: '2020-01-30 23:59:59'
-  timezone: UTC-12
-  date: July 6-8, 2020
-  place: Montreal, Canada
-  sub: CV
-
 - title: COLT
   hindex: 48
   year: 2020
@@ -268,17 +144,6 @@
   timezone: America/Los_Angeles
   place: Graz, Austria
   sub: ML
-
-- title: RSS
-  hindex: 47
-  year: 2020
-  id: rss20
-  link: https://roboticsconference.org/
-  deadline: '2020-01-31 23:59:59'
-  timezone: UTC-12
-  date: Jul 12-17, 2020
-  place: Oregon State University at Corvallis, Oregon
-  sub: RO
 
 - title: ICML
   hindex: 135
@@ -315,28 +180,6 @@
   place: Toronto, Canada
   sub: ML
 
-- title: IROS
-  hindex: 58
-  year: 2020
-  id: iros20
-  link: http://www.iros2020.org/
-  deadline: '2020-03-01 23:59:59'
-  timezone: America/Los_Angeles
-  date: Oct 24-30, 2020
-  place: Las Vegas, USA
-  sub: RO
-
-- title: ECCV
-  hindex: 135
-  year: 2020
-  id: eccv20
-  link: https://eccv2020.eu
-  deadline: '2020-03-05 23:59:00'
-  timezone: UTC
-  date: August 23-28, 2020
-  place: Glasgow, Scotland, UK
-  sub: CV
-
 - title: ICCC
   hindex: 22
   year: 2020
@@ -347,18 +190,6 @@
   date: June 29-July 3, 2020
   place: Coimbra, Portugal
   sub: ML
-
-- title: MICCAI
-  hindex: 46
-  year: 2020
-  id: miccai2020
-  link: http://www.miccai2020.org/
-  deadline: '2020-03-17 23:59:59'
-  timezone: America/Los_Angeles
-  date: October 4-8, 2020
-  place: Lima, Peru
-  sub: CV
-  note: '<b>NOTE</b>: Intent to submit deadline on Mar 03, 2020. More info <a href=''https://www.miccai2020.org/''>here</a>.'
 
 - title: ECML-PKDD
   hindex: 30
@@ -386,19 +217,6 @@
   sub: SP
   note: '<b>NOTE</b>: Mandatory abstract deadline on Apr 10, 2020. More info <a href=''https://ismir.github.io/ISMIR2020/cfp/''>here</a>.'
 
-- title: BMVC
-  hindex: 46
-  year: 2020
-  id: bmvc20
-  link: https://britishmachinevisionassociation.github.io/bmvc
-  deadline: '2020-04-30 23:59:59'
-  abstract_deadline: '2020-04-23 23:59:59'
-  timezone: UTC-8
-  date: September 7-11, 2020
-  place: Manchester, UK
-  sub: CV
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Apr 23, 2020. More info <a href=''https://britishmachinevisionassociation.github.io/bmvc''>here</a>.'
-
 - title: CIKM
   hindex: 48
   year: 2020
@@ -423,17 +241,6 @@
   place: Shanghai, China
   sub: SP
 
-- title: MM
-  hindex: 58
-  year: 2020
-  id: mm20
-  link: https://2020.acmmm.org/
-  deadline: '2020-05-24 23:59:00'
-  timezone: UTC-12
-  date: October 12-16, 2020
-  place: Seattle, USA
-  sub: CV
-
 - title: RecSys
   hindex: 45
   year: 2020
@@ -446,17 +253,6 @@
   place: Online
   sub: DM
   note: '<b>NOTE</b>: Mandatory abstract deadline on May 25, 2020. More info <a href=''https://recsys.acm.org/recsys20/dates/''>here</a>.'
-
-- title: EMNLP
-  hindex: 88
-  year: 2020
-  id: emnlp20
-  link: https://2020.emnlp.org/
-  deadline: '2020-06-03 23:59:00'
-  timezone: UTC-12
-  date: November 16-20, 2020
-  place: Online
-  sub: NLP
 
 - title: NeurIPS
   hindex: 169
@@ -482,39 +278,6 @@
   place: Sorrento, Italy
   sub: DM
 
-- title: AACL-IJCNLP
-  hindex: -1
-  year: 2020
-  id: aacl20
-  link: http://aacl2020.org
-  deadline: '2020-06-26 23:59:00'
-  timezone: UTC-12
-  date: December 4-7, 2020
-  place: Suzhou, China
-  sub: NLP
-
-- title: COLING
-  hindex: 41
-  year: 2020
-  id: coling20
-  link: https://coling2020.org/
-  deadline: '2020-07-01 23:59:59'
-  timezone: UTC-12
-  date: December 8-13, 2020
-  place: Barcelona, Spain
-  sub: NLP
-
-- title: ACCV
-  hindex: 38
-  year: 2020
-  id: accv20
-  link: http://accv2020.kyoto/
-  deadline: '2020-07-08 23:59:00'
-  timezone: UTC
-  date: November 30 - December 4, 2020
-  place: Online
-  sub: CV
-
 - title: ICPR
   hindex: 38
   year: 2020
@@ -525,50 +288,6 @@
   date: January 10-15, 2021
   place: Milan, Italy
   sub: ML
-
-- title: CoNLL
-  hindex: 34
-  year: 2020
-  id: conll2020
-  link: http://www.conll.org/2020
-  deadline: '2020-07-17 23:59:59'
-  timezone: UTC-12
-  date: November 19-20, 2020
-  place: Online
-  sub: NLP
-
-- title: CoRL
-  hindex: 20
-  year: 2020
-  id: corl20
-  link: http://www.robot-learning.org
-  deadline: '2020-07-28 23:59:00'
-  timezone: UTC-7
-  date: November 16-18, 2020
-  place: Online
-  sub: RO
-
-- title: 3DV
-  hindex: 29
-  year: 2020
-  id: threedv20
-  link: http://3dv2020.dgcv.nii.ac.jp/index.html
-  deadline: '2020-07-31 23:59:59'
-  timezone: America/Los_Angeles
-  date: November 25-28, 2020
-  place: Fukuoka, Japan
-  sub: CV
-
-- title: WMT
-  hindex: 27
-  year: 2020
-  id: wmt20
-  link: http://www.statmt.org/wmt20/
-  deadline: '2020-08-15 23:59:00'
-  timezone: UTC-12
-  date: November 19-20, 2020
-  place: Online
-  sub: NLP
 
 - title: WSDM
   hindex: 51
