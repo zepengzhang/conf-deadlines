@@ -11,3 +11,7 @@
   sub: SP
 - name: Data Mining
   sub: DM
+- name: Information Theory
+  sub: IT
+- name: Optimisation
+  sub: Opt
