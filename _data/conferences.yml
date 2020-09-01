@@ -204,18 +204,18 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Mar 19, 2020. More info <a href=''https://ecmlpkdd2020.net/submissions/deadlines/''>here</a>.'
 
-- title: ISMIR
-  hindex: 32
-  year: 2020
-  id: ismir20
-  link: https://ismir.github.io/ISMIR2020/
-  deadline: '2020-04-17 23:59:59'
-  abstract_deadline: '2020-04-10 23:59:59'
-  timezone: UTC-12
-  date: October 12-15, 2020
-  place: Montreal, Canada
-  sub: SP
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Apr 10, 2020. More info <a href=''https://ismir.github.io/ISMIR2020/cfp/''>here</a>.'
+# - title: ISMIR
+#  hindex: 32
+#  year: 2020
+#  id: ismir20
+#  link: https://ismir.github.io/ISMIR2020/
+#  deadline: '2020-04-17 23:59:59'
+#  abstract_deadline: '2020-04-10 23:59:59'
+#  timezone: UTC-12
+#  date: October 12-15, 2020
+#  place: Montreal, Canada
+#  sub: SP
+#  note: '<b>NOTE</b>: Mandatory abstract deadline on Apr 10, 2020. More info <a href=''https://ismir.github.io/ISMIR2020/cfp/''>here</a>.'
 
 - title: CIKM
   hindex: 48
@@ -230,16 +230,16 @@
   sub: DM
   note: '<b>NOTE</b>: Mandatory abstract deadline on Apr 24, 2020. More info <a href=''https://cikm2020.org/call-for-papers-full-and-short-research-papers/''>here</a>.'
 
-- title: InterSpeech
-  hindex: 65
-  year: 2020
-  id: interspeech20
-  link: http://www.interspeech2020.org/
-  deadline: '2020-05-08 23:59:59'
-  timezone: UTC-12
-  date: October 25-29, 2020
-  place: Shanghai, China
-  sub: SP
+# - title: InterSpeech
+#   hindex: 65
+#   year: 2020
+#   id: interspeech20
+#   link: http://www.interspeech2020.org/
+#   deadline: '2020-05-08 23:59:59'
+#   timezone: UTC-12
+#   date: October 25-29, 2020
+#   place: Shanghai, China
+#   sub: SP
 
 - title: RecSys
   hindex: 45

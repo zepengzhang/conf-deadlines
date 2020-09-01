@@ -1,5 +1,5 @@
 ---
-- name: Speech/SigProc
+- name: Signal Processing
   sub: SP
 - name: Machine Learning
   sub: ML
