@@ -12,6 +12,6 @@ github_username: abhshkdz
 github_repo: ai-deadlines
 
 markdown: kramdown
-ga_id: UA-36274081-2
+ga_id: UA-129140417-1
 
 include: ['_pages']
