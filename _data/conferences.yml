@@ -1,4 +1,100 @@
 ---
+
+- title: IEEE SSP
+  hindex:
+  year: 2021
+  id: ieeessp21
+  link: http://ssp2020.cetuc.puc-rio.br/index.html
+  deadline: '2021-03-05 23:59:59'
+  timezone: UTC-12
+  date: July 11-14, 2021
+  place: Rio de janeiro, Brazil
+  sub: SP
+  note: ''
+
+- title: IEEE SAM
+  hindex:
+  year: 2020
+  id: ieeesam20
+  link: https://sam2020.aconf.org/
+  deadline: '2020-01-12 23:59:59'
+  timezone: UTC-12
+  date: June 8-11, 2020
+  place: HangZhou, China
+  sub: SP
+  note: ''
+
+- title: IEEE CAMSAP
+  hindex:
+  year: 2021
+  id: ieeecamsap21
+  link: https://www.nt.tuwien.ac.at/camsap-2021/
+  deadline: '2020-07-19 23:59:59'
+  timezone: UTC-12
+  date: December 12-15, 2021
+  place: Costa Rica
+  sub: SP
+  note: ''
+
+- title: IEEE DSLW
+  hindex:
+  year: 2021
+  id: ieeedslw21
+  link: https://conferences.ece.ubc.ca/dslw2021/#/
+  deadline: '2020-10-15 23:59:59'
+  timezone: UTC-12
+  date: June 05-06, 2021
+  place: Toronto, ON, Canada
+  sub: SP
+  note: ''
+
+- title: Asilomar
+  hindex:
+  year: 2020
+  id: asilomar20
+  link: https://www.asilomarsscconf.org/
+  deadline: '2020-05-15 23:59:59'
+  timezone: UTC-12
+  date: November 01-05, 2020
+  place: Pacific Grove, CA, USA
+  sub: SP
+  note: ''
+
+- title: IEEE ISIT
+  hindex:
+  year: 2021
+  id: ieeeisit21
+  link: https://2021.ieee-isit.org/
+  deadline: '2021-01-10 23:59:59'
+  timezone: UTC-12
+  date: July 11-16, 2021
+  place: Melbourne, Victoria, Australia
+  sub: IT
+  note: ''
+
+- title: IEEE ITW
+  hindex: 28
+  year: 2021
+  id: ieeeitw21
+  link: https://ita.ucsd.edu/ws/
+  deadline: '2021-01-01 23:59:59'
+  timezone: UTC-12
+  date: February 11-15, 2021
+  place: Pacific Beach, United States
+  sub: IT
+  note: ''
+
+- title: ALLERTON
+  hindex:
+  year: 2020
+  id: allerton20
+  link: https://allerton.csl.illinois.edu/
+  deadline: '2020-07-06 23:59:59'
+  timezone: UTC-8
+  date: September 29-October 2, 2020
+  place: Pacific Beach, United States
+  sub: IT
+  note: ''
 - title: IEEE SSP
   year: 2021
   id: ieeessp21
