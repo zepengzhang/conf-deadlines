@@ -1,4 +1,13 @@
 ---
+- title: IEEE SSP
+  year: 2021
+  id: ieeessp21
+  link: http://ssp2020.cetuc.puc-rio.br/index.html
+  deadline: '2021-03-05 23:59:59'
+  timezone: UTC-12
+  date: July 11-14, 2021
+  place: Rio de janeiro, Brazil
+  sub: SP
 
 - title: AAAI
   hindex: 95
