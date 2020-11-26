@@ -10,7 +10,19 @@
   place: Dublin, Ireland
   sub: SP
   note: ''
-
+  
+- title: SPAWC
+  hindex:
+  year: 2021
+  id: spawc21
+  link: https://www.spawc2021.com/
+  deadline: '2021-04-11 23:59:59'
+  timezone: UTC-12
+  date: September 27‐30, 2021
+  place: Lucca, Italy
+  sub: SP
+  note: ''
+  
 - title: IEEE SSP
   hindex:
   year: 2021
@@ -228,7 +240,33 @@
   place: Bilbao, Spain
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Mar 19, 2021. More info <a href=''https://2021.ecmlpkdd.org/''>here</a>.'
-
+  
+- title: ACML
+  hindex: 
+  year: 2021
+  id: acml2021
+  link: http://www.acml-conf.org/2020/
+  deadline: '2020-06-15 23:59:59'
+  abstract_deadline: ''
+  timezone: UTC-12
+  date: November 18-20, 2020
+  place: Bangkok, Thailand
+  sub: ML
+  note: ''
+  
+- title: UAI
+  hindex: 
+  year: 2021
+  id: uai2021
+  link: https://auai.org/uai2021/
+  deadline: '2021-02-19 23:59:59'
+  abstract_deadline: ''
+  timezone: UTC-12
+  date: July 26-30, 2021
+  place: Online
+  sub: ML
+  note: ''
+  
 - title: CIKM
   hindex: 48
   year: 2021
