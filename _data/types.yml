@@ -5,6 +5,8 @@
   sub: ML
 - name: Information Theory
   sub: IT
+- name: Learning Theory
+  sub: LT
 - name: Data Mining
   sub: DM
 - name: Optimization

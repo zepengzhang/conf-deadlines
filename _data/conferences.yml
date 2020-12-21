@@ -1,4 +1,16 @@
 ---
+- title: ALT
+  hindex:
+  year: 2020
+  id: alt2020
+  link: http://alt2020.algorithmiclearningtheory.org/
+  deadline: '2019-09-20 23:59:59'
+  timezone: UTC-05
+  date: February 8–10, 2020
+  place:  San Diego, USA
+  sub: LT
+  note: ''
+
 - title: ICCOPT
   hindex:
   year: 2019
@@ -6,7 +18,7 @@
   link: https://iccopt2019.berlin/
   deadline: '2019-04-07 23:59:59'
   timezone: UTC-12
-  date: August 05-08, 2009
+  date: August 05-08, 2019
   place: Berlin, Germany
   sub: OPT
   note: ''
@@ -22,7 +34,7 @@
   place: Dublin, Ireland
   sub: SP
   note: ''
-  
+
 - title: SPAWC
   hindex:
   year: 2021
@@ -34,7 +46,7 @@
   place: Lucca, Italy
   sub: SP
   note: ''
-  
+
 - title: IEEE SSP
   hindex:
   year: 2021
@@ -252,9 +264,9 @@
   place: Bilbao, Spain
   sub: ML
   note: '<b>NOTE</b>: The journal track allows continuous submissions from September 2020 to early May 2021.'
-  
+
 - title: ACML
-  hindex: 
+  hindex:
   year: 2021
   id: acml2021
   link: http://www.acml-conf.org/2020/
@@ -265,9 +277,9 @@
   place: Bangkok, Thailand
   sub: ML
   note: ''
-  
+
 - title: UAI
-  hindex: 
+  hindex:
   year: 2021
   id: uai2021
   link: https://auai.org/uai2021/
@@ -278,7 +290,7 @@
   place: Online
   sub: ML
   note: ''
-  
+
 - title: CIKM
   hindex: 48
   year: 2021
