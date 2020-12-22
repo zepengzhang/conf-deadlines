@@ -119,6 +119,18 @@
   sub: IT
   note: ''
 
+- title: ITA
+  hindex:
+  year: 2021
+  id: ita21
+  link: https://ita.ucsd.edu/ws/
+  deadline: '2020-01-10 23:59:59'
+  timezone: UTC-12
+  date: February 7–12, 2021
+  place: Catamaran Resort, Pacific Beach, San Diego
+  sub: IT
+  note: ''
+  
 - title: IEEE ITW
   hindex: 28
   year: 2021
@@ -252,6 +264,28 @@
   place: Singapore
   sub: DM
 
+- title: ICDM
+  hindex: 
+  year: 2021
+  id: icdm21
+  link: https://icdm2021.auckland.ac.nz/
+  deadline: '2021-06-11 23:59:59'
+  timezone: UTC-11
+  date: December 7-10, 2021
+  place: Auckland, New Zealand
+  sub: DM
+  
+- title: SDM
+  hindex: 
+  year: 2021
+  id: sdm21
+  link: https://www.siam.org/conferences/cm/conference/sdm21
+  deadline: '2020-10-12 23:59:59'
+  timezone: UTC-11
+  date: April 29 - May 1, 2021
+  place: Virtual
+  sub: DM
+  
 - title: ECML
   hindex: 30
   year: 2021
