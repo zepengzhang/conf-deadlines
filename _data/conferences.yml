@@ -97,12 +97,12 @@
 
 - title: Asilomar
   hindex:
-  year: 2020
-  id: asilomar20
+  year: 2021
+  id: asilomar21
   link: https://www.asilomarsscconf.org/
-  deadline: '2020-05-15 23:59:59'
+  deadline: '2021-05-01 23:59:59'
   timezone: UTC-12
-  date: November 01-05, 2020
+  date: October 31 - November 03, 2021
   place: Pacific Grove, CA, USA
   sub: SP
   note: ''
