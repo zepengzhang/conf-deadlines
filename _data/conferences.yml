@@ -171,13 +171,13 @@
   hindex: 95
   year: 2021
   id: aaai21
-  link: https://aaai.org/Conferences/AAAI-21/
-  deadline: '2020-09-09 23:59:59'
+  link: https://aaai.org/Conferences/AAAI-22
+  deadline: '2021-09-09 23:59:59 TBD'
   timezone: UTC-12
-  date: February 2-9, 2021
-  place: Vancouver, Canada
+  date: February 2-9, 2022
+  place: Vancouver, British Columbia, Canada
   sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on September 01, 2020'
+  note: ''
 
 - title: ICLR
   hindex: 150
@@ -207,13 +207,13 @@
 
 - title: ICASSP
   hindex: 80
-  year: 2021
-  id: icassp21
-  link: https://2021.ieeeicassp.org/
-  deadline: '2020-10-19 23:59:59'
+  year: 2022
+  id: icassp22
+  link: https://2022.ieeeicassp.org/
+  deadline: '2021-10-19 23:59:59 TBD'
   timezone: UTC
-  date: June 6-11, 2021
-  place: Toronto, Ontario, Canada
+  date: May 23-27, 2022
+  place: Singapore
   sub: SP
 
 - title: WWW
@@ -311,19 +311,6 @@
   sub: ML
   note: '<b>NOTE</b>: The journal track allows continuous submissions from September 2020 to early May 2021.'
 
-- title: ACML
-  hindex:
-  year: 2021
-  id: acml2021
-  link: http://www.acml-conf.org/2020/
-  deadline: '2020-06-15 23:59:59'
-  abstract_deadline: ''
-  timezone: UTC-12
-  date: November 18-20, 2020
-  place: Bangkok, Thailand
-  sub: ML
-  note: ''
-
 - title: UAI
   hindex:
   year: 2021
@@ -341,15 +328,15 @@
   hindex: 48
   year: 2021
   id: cikm21
-  link: https://cikm2020.org/
-  deadline: '2020-05-01 23:59:59'
-  abstract_deadline: '2020-04-24 23:59:59'
+  link: https://www.cikm2021.org/
+  deadline: '2021-05-02 23:59:59'
+  abstract_deadline: '2021-04-24 23:59:59'
   timezone: UTC-12
-  date: October 19-23, 2020
-  place: Galway, Ireland
+  date: November 1-5, 2021
+  place: Australia
   sub: DM
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Apr 24, 2020. More info <a href=''https://cikm2020.org/call-for-papers-full-and-short-research-papers/''>here</a>.'
-
+  note: ''
+  
 - title: NeurIPS
   hindex: 169
   year: 2021
