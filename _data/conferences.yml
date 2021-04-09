@@ -172,7 +172,7 @@
   year: 2021
   id: aaai21
   link: https://aaai.org/Conferences/AAAI-22
-  deadline: '2021-09-09 23:59:59 TBD'
+  deadline: '2021-09-09 23:59:59'
   timezone: UTC-12
   date: February 2-9, 2022
   place: Vancouver, British Columbia, Canada
@@ -210,7 +210,7 @@
   year: 2022
   id: icassp22
   link: https://2022.ieeeicassp.org/
-  deadline: '2021-10-19 23:59:59 TBD'
+  deadline: '2021-10-19 23:59:59'
   timezone: UTC
   date: May 23-27, 2022
   place: Singapore
