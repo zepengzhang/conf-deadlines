@@ -11,6 +11,64 @@
   sub: LT
   note: ''
 
+- title: CIKM
+  hindex: 48
+  year: 2021
+  id: cikm21
+  link: https://cikm2021.org/
+  deadline: '2021-05-26 23:59:59'
+  abstract_deadline: '2021-05-19 23:59:59'
+  timezone: UTC-12
+  date: November 1-5, 2021
+  place: Gold Coast, Queensland, Australia
+  sub: DM
+
+- title: ACML
+  hindex: 17
+  year: 2021
+  id: acml21
+  link: http://www.acml-conf.org/2021
+  deadline: '2021-06-25 23:59:00'
+  timezone: UTC-7
+  date: November 17-19, 2021
+  place: Online
+  sub: ML
+  
+- title: ALT
+  hindex: 15
+  year: 2020
+  id: alt20
+  link: http://alt2020.algorithmiclearningtheory.org/
+  deadline: '2019-09-20 16:59:59'
+  timezone: America/New_York
+  date: February 08-10, 2020
+  place: San Diego, CA, United States
+  sub: ML
+
+- title: RecSys
+  hindex: 45
+  year: 2020
+  id: recsys20
+  link: https://recsys.acm.org/recsys20/
+  deadline: '2020-06-01 23:59:59'
+  abstract_deadline: '2020-05-25 23:59:59'
+  timezone: UTC-12
+  date: September 22-26, 2020
+  place: Online
+  sub: DM
+  note: '<b>NOTE</b>: Mandatory abstract deadline on May 25, 2020. More info <a href=''https://recsys.acm.org/recsys20/dates/''>here</a>.'
+  
+- title: ICCC
+  hindex: 22
+  year: 2020
+  id: iccc20
+  link: http://computationalcreativity.net/iccc20/
+  deadline: '2020-03-08 23:59:59'
+  timezone: UTC-12
+  date: June 29-July 3, 2020
+  place: Coimbra, Portugal
+  sub: ML
+  
 - title: EUSIPCO
   hindex:
   year: 2021
@@ -167,6 +225,80 @@
   sub: ML
   note: ''
 
+- title: ICAPS
+  hindex: 28
+  year: 2021
+  id: icaps21
+  link: https://icaps21.icaps-conference.org/
+  deadline: '2020-12-18 23:59:59'
+  abstract_deadline: '2020-12-11 23:59:59'
+  timezone: UTC-12
+  date: June 7-12, 2021
+  place: Guangzhou, China
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Dec 11, 2020. More info <a href=''https://icaps21.icaps-conference.org/''>here</a>.'
+
+- title: CHIL
+  hindex: -1
+  year: 2021
+  id: chil21
+  link: https://www.chilconference.org/
+  deadline: '2021-01-14 23:59:59'
+  abstract_deadline: '2021-01-10 23:59:59'
+  timezone: UTC-12
+  date: April 8-10, 2021
+  place: Online
+  sub: ML
+  note: '<b>NOTE</b>: Recommended abstract deadline on Jan 10, 2021. More info <a
+    href=''https://www.chilconference.org''>here</a>.'
+    
+- title: SIGIR
+  hindex: 57
+  year: 2021
+  id: sigir21
+  link: http://sigir.org/sigir2021/
+  deadline: '2021-02-09 23:59:00'
+  timezone: UTC-12
+  date: July 11-15, 2021
+  place: Montreal, Canada
+  abstract_deadline: '2021-02-02 23:59:00'
+  sub: DM
+  
+- title: AAMAS
+  hindex: 25
+  year: 2021
+  id: aamas21
+  link: https://aamas2021.soton.ac.uk/
+  deadline: '2020-10-09 23:59:59'
+  abstract_deadline: '2020-10-02 23:59:59'
+  timezone: UTC-12
+  date: May 3-7, 2021
+  place: London, UK
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Oct 02, 2020. More info <a href=''https://aamas2021.soton.ac.uk/calls/papers/''>here</a>.'
+  
+- title: SDM
+  hindex: 33
+  year: 2021
+  id: sdm21
+  link: https://www.siam.org/conferences/cm/conference/sdm21
+  deadline: '2020-10-12 23:59:00'
+  timezone: UTC-5
+  date: April 29 - May 1, 2021
+  place: Online
+  sub: DM
+  
+- title: ICPR
+  hindex: 38
+  year: 2020
+  id: icpr20
+  link: https://www.micc.unifi.it/icpr2020/
+  deadline: '2020-07-15 23:59:00'
+  timezone: UTC+1
+  date: January 10-15, 2021
+  place: Milan, Italy
+  sub: ML
+  
 - title: ICLR
   hindex: 150
   year: 2021
@@ -310,19 +442,6 @@
   date: July 26-30, 2021
   place: Online
   sub: ML
-  note: ''
-
-- title: CIKM
-  hindex: 48
-  year: 2021
-  id: cikm21
-  link: https://www.cikm2021.org/
-  deadline: '2021-05-02 23:59:59'
-  abstract_deadline: '2021-04-24 23:59:59'
-  timezone: UTC-12
-  date: November 1-5, 2021
-  place: Australia
-  sub: DM
   note: ''
   
 - title: NeurIPS
