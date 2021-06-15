@@ -385,14 +385,15 @@
   
 - title: SDM
   hindex: 
-  year: 2021
-  id: sdm21
-  link: https://www.siam.org/conferences/cm/conference/sdm21
-  deadline: '2020-10-12 23:59:59'
+  year: 2022
+  id: sdm22
+  link: https://www.siam.org/conferences/cm/conference/sdm22
+  deadline: '2021-10-12 23:59:59'
   timezone: UTC-11
-  date: April 29 - May 1, 2021
-  place: Virtual
+  date: April 28 - 30, 2022
+  place: Alexandria, Virginia, U.S.
   sub: DM
+  note: 'ddl TBD.'
   
 - title: ECML
   hindex: 30
