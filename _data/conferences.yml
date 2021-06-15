@@ -314,15 +314,15 @@
 
 - title: WWW
   hindex: 70
-  year: 2021
-  id: www21
-  link: http://www2021.thewebconf.org/
-  deadline: '2020-10-19 23:59:59'
+  year: 2022
+  id: www22
+  link: https://www2022.thewebconf.org/
+  deadline: '2021-10-21 23:59:59'
   timezone: UTC-12
-  date: April 19-23, 2021
-  place: Ljubljana, Slovenia
+  date: April 25-29, 2022
+  place: Lyon, France
   sub: DM
-  note: '<b>NOTE</b>: Mandatory abstract deadline on October 12, 2020'
+  note: '<b>NOTE</b>: Abstract deadline on October 14, 2021'
 
 - title: IJCAI
   hindex: 67
