@@ -282,12 +282,12 @@
   year: 2022
   id: iclr22
   link: http://iclr.cc/
-  deadline: '2021-10-02 07:59:59'
+  deadline: '2021-10-05 07:59:59'
   timezone: UTC-7
   date: April 25-29, 2022
   place: Virtual
   sub: ML
-  note: 'ddl TBD'
+  note: 'Abstract deadline on Sep 28, 2021.'
 
 - title: AISTATS
   hindex: 52
