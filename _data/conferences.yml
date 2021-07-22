@@ -60,15 +60,15 @@
   
 - title: EUSIPCO
   hindex:
-  year: 2021
-  id: eusipco21
-  link: https://eusipco2021.org/
-  deadline: '2021-03-01 23:59:59'
+  year: 2022
+  id: eusipco22
+  link: https://2022.eusipco.org/
+  deadline: '2022-03-01 23:59:59'
   timezone: UTC-12
-  date: August 23-27, 2021
-  place: Dublin, Ireland
+  date: August 29 - September 2, 2021
+  place: Belgrade, Serbia
   sub: SP
-  note: ''
+  note: 'ddl TBD'
 
 - title: IEEE SPAWC
   hindex:
@@ -87,7 +87,7 @@
   year: 2022
   id: ieeessp22
   link: http://avitech.uet.vnu.edu.vn/ssp2022/index.html
-  deadline: '2021-01-31 23:59:59'
+  deadline: '2022-01-31 23:59:59'
   timezone: UTC-12
   date: July 3-6, 2022
   place: Hanoi, Vietnam
