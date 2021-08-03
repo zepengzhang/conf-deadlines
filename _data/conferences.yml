@@ -34,6 +34,17 @@
   place: Online
   sub: ML
   
+- title: IJCNN
+  hindex: 17
+  year: 2022
+  id: ijcnn22
+  link: https://wcci2022.org/call-for-papers/
+  deadline: '2022-01-31 23:59:00'
+  timezone: UTC-7
+  date: July 18-23, 2022
+  place: Padova, Italy
+  sub: ML
+  
 - title: RecSys
   hindex: 45
   year: 2021
@@ -44,6 +55,18 @@
   timezone: UTC-12
   date: September 27- October 01, 2021
   place: Amsterdam, Netherlands
+  sub: DM
+  note: ''
+  
+- title: WSDM
+  hindex: 
+  year: 2022
+  id: wsdm22
+  link: https://www.wsdm-conference.org/2022/
+  deadline: '2021-08-13 23:59:59'
+  timezone: UTC-12
+  date: February 21- 25, 2022
+  place: Phoenix, Arizona
   sub: DM
   note: ''
   
@@ -361,7 +384,7 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 28, 2021. More info <a href=''https://icml.cc/Conferences/2021''>here</a>.'
 
-- title: KDD
+- title: SIGKDD/KDD
   hindex: 30
   year: 2021
   id: kdd21
@@ -395,7 +418,7 @@
   sub: DM
   note: 'ddl TBD.'
   
-- title: ECML
+- title: ECML PKDD
   hindex: 30
   year: 2021
   id: ecml2021
