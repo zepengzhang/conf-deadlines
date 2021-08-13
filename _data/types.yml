@@ -1,13 +1,14 @@
 ---
-- name: Signal Processing
-  sub: SP
+
 - name: Machine Learning
   sub: ML
-- name: Information Theory
-  sub: IT
-- name: Learning Theory
-  sub: LT
 - name: Data Mining
   sub: DM
+- name: Learning Theory
+  sub: LT
+- name: Signal Processing
+  sub: SP
+- name: Information Theory
+  sub: IT
 - name: Optimization
   sub: OPT
