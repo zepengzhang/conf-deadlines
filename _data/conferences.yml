@@ -117,6 +117,18 @@
   place: Lucca, Italy
   sub: SP
   note: ''
+  
+- title: IEEE WLSP
+  hindex:
+  year: 2021
+  id: wlsp21
+  link: https://2021.ieeemlsp.org/
+  deadline: '2021-06-14 23:59:59'
+  timezone: UTC-12
+  date: October 25‐28, 2021
+  place: Gold Coast, Queensland, Australia
+  sub: SP
+  note: ''
 
 - title: IEEE SSP
   hindex:
