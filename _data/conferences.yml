@@ -99,12 +99,12 @@
   year: 2022
   id: eusipco22
   link: https://2022.eusipco.org/
-  deadline: '2022-03-01 23:59:59'
+  deadline: '2022-02-20 23:59:59'
   timezone: UTC-12
   date: August 29 - September 2, 2021
   place: Belgrade, Serbia
   sub: SP
-  note: 'ddl TBD'
+  note: ''
 
 - title: IEEE SPAWC
   hindex:
