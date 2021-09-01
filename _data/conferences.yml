@@ -267,13 +267,13 @@
   year: 2022
   id: icaps22
   link: http://icaps22.icaps-conference.org/
-  deadline: '2021-12-18 23:59:59'
-  abstract_deadline: '2021-12-11 23:59:59'
+  deadline: '2021-12-15 23:59:59'
+  abstract_deadline: '2021-12-10 23:59:59'
   timezone: UTC-12
-  date: June 7-12, 2021
+  date: June 19-24, 2022
   place: Singapore Management University, Singapore
   sub: ML
-  note: 'ddl TBD.'
+  note: ''
 
 - title: CHIL
   hindex: -1
@@ -372,18 +372,18 @@
   sub: DM
   note: '<b>NOTE</b>: Abstract deadline on October 14, 2021'
 
-- title: IJCAI
+- title: IJCAI-ECAI
   hindex: 67
   year: 2022
   id: ijcai22
   link: https://ijcai-22.org/
-  deadline: '2022-01-18 23:59:59'
-  abstract_deadline: '2022-01-12 23:59:59'
+  deadline: '2022-01-14 23:59:59'
+  abstract_deadline: '2022-01-07 23:59:59'
   timezone: UTC-12
   date: July 23-29, 2022
   place: Vienna, Austria
   sub: ML
-  note: 'ddl TBD.'
+  note: ''
 
 - title: COLT
   hindex: 48
