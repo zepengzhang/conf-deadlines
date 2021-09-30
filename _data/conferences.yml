@@ -168,13 +168,13 @@
 
 - title: IEEE DSLW
   hindex:
-  year: 2021
-  id: ieeedslw21
-  link: https://conferences.ece.ubc.ca/dslw2021/#/
-  deadline: '2020-10-15 23:59:59'
+  year: 2022
+  id: ieeedslw22
+  link: https://conferences.ece.ubc.ca/dslw2022/#/
+  deadline: '2021-11-10 23:59:59'
   timezone: UTC-12
-  date: June 05-06, 2021
-  place: Toronto, ON, Canada
+  date: May 22-23, 2022
+  place: NTU, Singapore
   sub: SP
   note: ''
 
