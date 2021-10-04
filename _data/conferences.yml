@@ -144,15 +144,15 @@
 
 - title: IEEE SAM
   hindex:
-  year: 2020
-  id: ieeesam20
-  link: https://sam2020.aconf.org/
-  deadline: '2020-01-12 23:59:59'
+  year: 2022
+  id: ieeesam22
+  link: https://attend.ieee.org/sam-2022/
+  deadline: '2022-02-02 23:59:59'
   timezone: UTC-12
-  date: June 8-11, 2020
-  place: HangZhou, China
+  date: June 8-11, 2022
+  place: NTNU, Norway
   sub: SP
-  note: ''
+  note: 'date TBD'
 
 - title: IEEE CAMSAP
   hindex:
