@@ -387,13 +387,13 @@
 
 - title: COLT
   hindex: 48
-  year: 2021
-  id: colt21
-  link: http://learningtheory.org/colt2021/
-  date: July 7-10, 2021
-  deadline: '2021-01-29 16:00:00'
+  year: 2022
+  id: colt22
+  link: http://learningtheory.org/colt2022/
+  date: July 2-5, 2020
+  deadline: '2022-02-09 16:00:00'
   timezone: America/Los_Angeles
-  place: Boulder, Colorado
+  place: London, UK
   sub: ML
 
 - title: ICML
