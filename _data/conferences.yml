@@ -411,14 +411,15 @@
 
 - title: SIGKDD/KDD
   hindex: 30
-  year: 2021
-  id: kdd21
-  link: https://www.kdd.org/kdd2021/
-  deadline: '2021-02-08 23:59:59'
+  year: 2022
+  id: kdd22
+  link: https://kdd.org/kdd2022/index.html
+  deadline: '2022-02-08 23:59:59'
   timezone: UTC-11
-  date: August 14-18, 2021
-  place: Singapore
+  date: August 14-18, 2022
+  place: Washington DC Convention Center 
   sub: DM
+  note: 'ddl TBD'
 
 - title: ICDM
   hindex: 
