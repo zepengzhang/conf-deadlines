@@ -142,12 +142,12 @@
 
 - title: IEEE SSP
   hindex:
-  year: 2022
-  id: ieeessp22
-  link: http://avitech.uet.vnu.edu.vn/ssp2022/index.html
-  deadline: '2022-01-31 23:59:59'
+  year: 2023
+  id: ieeessp23
+  link: https://avitech.uet.vnu.edu.vn/ssp2023/index.html
+  deadline: '2023-01-18 23:59:59'
   timezone: UTC-12
-  date: July 3-6, 2022
+  date: July 2-5, 2023
   place: Hanoi, Vietnam
   sub: SP
   note: ''
