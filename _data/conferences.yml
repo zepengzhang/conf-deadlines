@@ -22,7 +22,17 @@
   date: November 1-5, 2021
   place: Gold Coast, Queensland, Australia
   sub: DM
-  
+ 
+- title: ICDE
+  hindex: 
+  year: 2022
+  id: icde22
+  link: https://icde2022.ieeecomputer.my/
+  deadline: '2021-11-19 23:59:59'
+  timezone: UTC-12
+  date: May 9-12, 2022
+  place: Kuala Lumpur, Malaysia
+  sub: DM
 
 - title: ICIF
   hindex: 
