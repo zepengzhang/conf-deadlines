@@ -15,7 +15,7 @@
   hindex: 48
   year: 2022
   id: cikm22
-  link: https://www.cikm2022.org/home
+  link: https://www.cikm2022.org/
   deadline: '2022-05-26 23:59:59'
   abstract_deadline: '2022-05-19 23:59:59'
   timezone: UTC-12
@@ -129,15 +129,15 @@
   sub: SP
   note: ''
   
-- title: IEEE WLSP
+- title: IEEE MLSP
   hindex:
-  year: 2021
-  id: wlsp21
-  link: https://2021.ieeemlsp.org/
-  deadline: '2021-06-14 23:59:59'
+  year: 2022
+  id: mlsp22
+  link: https://2022.ieeemlsp.org/
+  deadline: '2022-04-01 23:59:59'
   timezone: UTC-12
-  date: October 25‐28, 2021
-  place: Gold Coast, Queensland, Australia
+  date: August 22‐25, 2022
+  place: Xi an, China
   sub: SP
   note: ''
 
@@ -191,12 +191,12 @@
 
 - title: Asilomar
   hindex:
-  year: 2021
-  id: asilomar21
+  year: 2022
+  id: asilomar22
   link: https://www.asilomarsscconf.org/
-  deadline: '2021-05-08 23:59:59'
+  deadline: '2022-04-29 23:59:59'
   timezone: UTC-12
-  date: October 31 - November 03, 2021
+  date: October 30 - November 02, 2022
   place: Pacific Grove, CA, USA
   sub: SP
   note: ''
@@ -437,12 +437,12 @@
   year: 2022
   id: icdm22
   link: https://icdm22.cse.usf.edu/index.html
-  deadline: '2022-06-11 23:59:59'
+  deadline: '2022-06-10 23:59:59'
   timezone: UTC-11
   date: November 30 - December 3, 2022
   place: Orlando, FL, USA
   sub: DM
-  note: 'ddl TBD'
+  note: ''
   
 - title: SDM
   hindex: 
