@@ -40,12 +40,12 @@
   year: 2022
   id: icif2022
   link: https://event.trippus.net/Home/Index/AEAKgINj5lvKf3HSAcLjoJfY3I9opYDhEYN-w-ZpDeNRTOzGVw-KRbNlFUlb9DZtbxdjA7tLiQ0t/AEAKgIOBL-lfyotyEzWuxqqPVNwOl-CwBybAr866X5ZL9foS4IKZipJh2-u3g_CPCYEmEw9V94aw/eng
-  deadline: '2022-05-15 23:59:59'
+  deadline: '2022-03-01 23:59:59'
   timezone: UTC-12
   date: July 4-7, 2022
   place: Linköping, Sweden
   sub: DM
-  note: 'ddl TBD'
+  note: ''
 
 - title: ACML
   hindex: 17
@@ -74,13 +74,13 @@
   year: 2022
   id: recsys22
   link: https://recsys.acm.org/recsys22/
-  deadline: '2022-05-04 23:59:59'
+  deadline: '2022-05-03 23:59:59'
   abstract_deadline: '2022-04-27 23:59:59'
   timezone: UTC-12
   date: September 18-23, 2022
   place: Seattle, WA, USA
   sub: DM
-  note: 'ddl TBD'
+  note: ''
   
 - title: WSDM
   hindex: 
