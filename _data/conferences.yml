@@ -484,13 +484,13 @@
   
 - title: NeurIPS
   hindex: 169
-  year: 2021
-  id: neurips21
+  year: 2022
+  id: neurips22
   link: https://nips.cc/
-  deadline: '2021-05-26 00:00:00'
-  abstract_deadline: '2020-05-19 13:00:00'
+  deadline: '2022-05-26 00:00:00'
+  abstract_deadline: '2022-05-19 13:00:00'
   timezone: America/Los_Angeles
-  date: December 6-14, 2021
+  date: December 6-14, 2022
   place: Virtual
   sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on May 27, 2020'
+  note: '<b>NOTE</b>: ddl TBD Mandatory abstract deadline on May 27, 2020'
