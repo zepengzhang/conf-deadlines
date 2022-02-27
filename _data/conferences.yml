@@ -488,10 +488,10 @@
   year: 2022
   id: neurips22
   link: https://nips.cc/
-  deadline: '2022-05-26 00:00:00'
-  abstract_deadline: '2022-05-19 13:00:00'
+  deadline: '2022-05-19 00:00:00'
+  abstract_deadline: '2022-05-16 13:00:00'
   timezone: America/Los_Angeles
-  date: December 6-14, 2022
-  place: Virtual
+  date: November 26 – December 4, 2022
+  place: The New Orleans Convention Center
   sub: ML
-  note: '<b>NOTE</b>: ddl TBD Mandatory abstract deadline on May 27, 2020'
+  note: ''
