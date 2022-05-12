@@ -374,15 +374,15 @@
 
 - title: WWW
   hindex: 70
-  year: 2022
-  id: www22
-  link: https://www2022.thewebconf.org/
-  deadline: '2021-10-21 23:59:59'
+  year: 2023
+  id: www23
+  link: https://www2023.thewebconf.org/
+  deadline: '2022-10-21 23:59:59'
   timezone: UTC-12
-  date: April 25-29, 2022
-  place: Lyon, France
+  date: MAY 1-5, 2023
+  place: AUSTIN, TEXAS, USA
   sub: DM
-  note: '<b>NOTE</b>: Abstract deadline on October 14, 2021'
+  note: '<b>NOTE</b>: ddl TBD'
 
 - title: IJCAI-ECAI
   hindex: 67
