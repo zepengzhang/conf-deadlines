@@ -364,13 +364,13 @@
   hindex: 80
   year: 2023
   id: icassp23
-  link: http://www.2023.ieeeicassp.org/
-  deadline: '2022-10-06 23:59:59'
+  link: https://2023.ieeeicassp.org/
+  deadline: '2022-10-19 23:59:59'
   timezone: UTC
-  date: May 7-12, 2023
-  place: Kos Island, Greece
+  date: June 4 - 9, 2023
+  place: Rhodes, Greece
   sub: SP
-  note: '<b>NOTE</b>: ddl TBD'
+  note: ''
 
 - title: WWW
   hindex: 70
