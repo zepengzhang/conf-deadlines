@@ -377,12 +377,12 @@
   year: 2023
   id: www23
   link: https://www2023.thewebconf.org/
-  deadline: '2022-10-21 23:59:59'
+  deadline: '2022-10-13 23:59:59'
   timezone: UTC-12
   date: MAY 1-5, 2023
   place: AUSTIN, TEXAS, USA
   sub: DM
-  note: '<b>NOTE</b>: ddl TBD'
+  note: '<b>NOTE</b>: Mandatory abstract deadline on October 06, 2022.'
 
 - title: IJCAI-ECAI
   hindex: 67
