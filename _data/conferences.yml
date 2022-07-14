@@ -26,13 +26,13 @@
  
 - title: ICDE
   hindex: 
-  year: 2022
-  id: icde22
-  link: https://icde2022.ieeecomputer.my/
-  deadline: '2021-11-19 23:59:59'
+  year: 2023
+  id: icde23
+  link: https://icde2023.ics.uci.edu/
+  deadline: '2022-10-08 23:59:59'
   timezone: UTC-12
-  date: May 9-12, 2022
-  place: Kuala Lumpur, Malaysia
+  date: April 3-7, 2023
+  place: Anaheim, California, USA
   sub: DM
 
 - title: ICIF
@@ -60,13 +60,13 @@
   
 - title: IJCNN
   hindex: 17
-  year: 2022
-  id: ijcnn22
-  link: https://wcci2022.org/call-for-papers/
-  deadline: '2022-01-31 23:59:00'
+  year: 2023
+  id: ijcnn23
+  link: https://2023.ijcnn.org/
+  deadline: '2023-01-31 23:59:00'
   timezone: UTC-7
-  date: July 18-23, 2022
-  place: Padova, Italy
+  date: June 18-23, 2023
+  place: Queensland, Australia
   sub: ML
   
 - title: RecSys
@@ -131,15 +131,15 @@
   
 - title: IEEE MLSP
   hindex:
-  year: 2022
-  id: mlsp22
-  link: https://2022.ieeemlsp.org/
-  deadline: '2022-04-01 23:59:59'
+  year: 2023
+  id: mlsp23
+  link: https://mlsp2023.grupposymposia.it/
+  deadline: '2023-04-01 23:59:59'
   timezone: UTC-12
-  date: August 22‐25, 2022
-  place: Xi an, China
+  date: September 17‐20, 2023
+  place: Rome, Italy
   sub: SP
-  note: ''
+  note: 'ddl TBD'
 
 - title: IEEE SSP
   hindex:
@@ -327,26 +327,26 @@
   
 - title: ICPR
   hindex: 38
-  year: 2022
-  id: icpr22
-  link: https://www.icpr2022.com/
-  deadline: '2022-01-17 23:59:00'
+  year: 2023
+  id: icpr23
+  link: https://icpr2022.be/
+  deadline: '2022-12-10 23:59:00'
   timezone: UTC+1
-  date: August 21-25, 2022
-  place: Montréal Québec, Canada
+  date: June 4-7, 2023
+  place: Ghent, Belgium
   sub: ML
   
 - title: ICLR
   hindex: 150
-  year: 2022
-  id: iclr22
+  year: 2023
+  id: iclr23
   link: http://iclr.cc/
-  deadline: '2021-10-05 07:59:59'
+  deadline: '2022-10-05 07:59:59'
   timezone: UTC-7
-  date: April 25-29, 2022
-  place: Virtual
+  date: May 1-5, 2023
+  place: Kigali, Rwanda, Africa
   sub: ML
-  note: 'Abstract deadline on Sep 28, 2021.'
+  note: 'ddl TBD; Abstract deadline on Sep 28, 2021.'
 
 - title: AISTATS
   hindex: 52
@@ -410,16 +410,16 @@
 
 - title: ICML
   hindex: 135
-  year: 2022
-  id: icml22
+  year: 2023
+  id: icml23
   link: https://icml.cc/Conferences/2022
-  deadline: '2022-01-27 23:59:00'
-  abstract_deadline: '2022-01-20 23:59:00'
+  deadline: '2023-01-27 23:59:00'
+  abstract_deadline: '2023-01-20 23:59:00'
   timezone: UTC-12
-  date: July 17-23, 2022
-  place: Baltimore, Maryland USA
+  date: July 24-30, 2023
+  place: Seoul, South Korea 
   sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 20, 2022.'
+  note: '<b>NOTE</b>: ddl TBD; Mandatory abstract deadline on Jan 20, 2022.'
   
 - title: LOG
   hindex: 
