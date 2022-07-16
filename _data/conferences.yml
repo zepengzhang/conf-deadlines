@@ -341,12 +341,12 @@
   year: 2023
   id: iclr23
   link: http://iclr.cc/
-  deadline: '2022-10-05 07:59:59'
+  deadline: '2022-09-28 07:59:59'
   timezone: UTC-7
   date: May 1-5, 2023
   place: Kigali, Rwanda, Africa
   sub: ML
-  note: 'ddl TBD; Abstract deadline on Sep 28, 2021.'
+  note: 'Abstract deadline on Sep 21, 2021.'
 
 - title: AISTATS
   hindex: 52
