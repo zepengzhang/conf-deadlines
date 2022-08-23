@@ -109,13 +109,13 @@
   hindex:
   year: 2023
   id: eusipco23
-  link: https://2023.eusipco.org/
+  link: http://eusipco2023.org/
   deadline: '2023-02-20 23:59:59'
   timezone: UTC-12
   date: September 4-8, 2023
   place: Helsinki, Finland
   sub: SP
-  note: 'ddl TBD'
+  note: ''
 
 - title: IEEE SPAWC
   hindex:
