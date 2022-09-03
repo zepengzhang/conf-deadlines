@@ -384,18 +384,18 @@
   sub: DM
   note: '<b>NOTE</b>: Mandatory abstract deadline on October 06, 2022.'
 
-- title: IJCAI-ECAI
+- title: IJCAI
   hindex: 67
-  year: 2022
-  id: ijcai22
-  link: https://ijcai-22.org/
-  deadline: '2022-01-14 23:59:59'
-  abstract_deadline: '2022-01-07 23:59:59'
+  year: 2023
+  id: ijcai23
+  link: https://ijcai-23.org/
+  deadline: '2023-01-14 23:59:59'
+  abstract_deadline: '2023-01-07 23:59:59'
   timezone: UTC-12
-  date: July 23-29, 2022
-  place: Vienna, Austria
+  date: August, 2023
+  place: Cape Town, South Africa
   sub: ML
-  note: ''
+  note: 'ddl TBD'
 
 - title: COLT
   hindex: 48
