@@ -30,7 +30,7 @@
                   </h1>
                 </div>
                 <div class="meta col-xs-12">
-                  {{ site.description }} This is created by <a href="https://zepengzhang.com/">Zepeng Zhang. This page is currently maintained as a fork from <a href="https://aideadlin.es/">aideadlin.es</a>.
+                  {{ site.description }} This is created by <a href="https://zepengzhang.com/">Zepeng Zhang. 
                 </div>
             </div>
             <br>
@@ -56,8 +56,6 @@
             <div class="row">
               <div class="meta col-xs-12">
                 <span class="local-timezone-hide">
-                  Deadlines are shown in <span class="local-timezone">America/New_York</span> time.
-                  To view them in conference website timezones, click on them.
                 </span>
               </div>
               <div class="meta col-xs-12">
@@ -182,7 +180,7 @@
           var timezone = {% if conf.timezone %}"{{conf.timezone}}" {% else %} "America/New_York" {% endif %};
           var confDate = moment.tz("{{conf.deadline}}", timezone);
 
-          // render countdown timer
+          // render 
           $('#{{conf.id}} .timer').countdown(confDate.toDate(), function(event) {
             $(this).html(event.strftime('%D days %Hh %Mm %Ss'));
           });
