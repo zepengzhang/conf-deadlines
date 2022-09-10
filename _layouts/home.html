@@ -244,9 +244,12 @@
           // Hide unchecked subs
           for (var i = 0; i < all_subs.length; i++) {
             if (subs.indexOf(all_subs[i]) < 0) {
-            //if (subs.indexOf(all_subs[i]) < 0) {
               $('.' + all_subs[i] + '-conf').hide();
             }
+          }
+          // In case a conf with multiple types is wrongly hid, show all confs with at least one checked type.
+          for (var i = 0; i < subs.length; i++) {
+            $('.' + subs[i] + '-conf').show();
           }
         }
         // Get subjects from browser cache
@@ -258,7 +261,6 @@
         } else {
           for (var i = 0; i < subs.length; i++) {
             $('#' + subs[i] + '-checkbox').prop('checked', true);
-            //}
           }
         }
         store.set('{{ site.domain }}', subs);
