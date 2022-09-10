@@ -22,29 +22,6 @@
   date: April 3-7, 2023
   place: Anaheim, California, USA
   sub: DM
-
-- title: ICIF
-  hindex: 
-  year: 2022
-  id: icif2022
-  link: https://event.trippus.net/Home/Index/AEAKgINj5lvKf3HSAcLjoJfY3I9opYDhEYN-w-ZpDeNRTOzGVw-KRbNlFUlb9DZtbxdjA7tLiQ0t/AEAKgIOBL-lfyotyEzWuxqqPVNwOl-CwBybAr866X5ZL9foS4IKZipJh2-u3g_CPCYEmEw9V94aw/eng
-  deadline: '2022-03-01 23:59:59'
-  timezone: UTC-12
-  date: July 4-7, 2022
-  place: Linköping, Sweden
-  sub: DM
-  note: ''
-
-- title: ACML
-  hindex: 17
-  year: 2021
-  id: acml21
-  link: http://www.acml-conf.org/2021
-  deadline: '2021-06-25 23:59:00'
-  timezone: UTC-7
-  date: November 17-19, 2021
-  place: Online
-  sub: ML
   
 - title: IJCNN
   hindex: 17
@@ -56,19 +33,6 @@
   date: June 18-23, 2023
   place: Queensland, Australia
   sub: ML
-  
-- title: RecSys
-  hindex: 45
-  year: 2022
-  id: recsys22
-  link: https://recsys.acm.org/recsys22/
-  deadline: '2022-05-03 23:59:59'
-  abstract_deadline: '2022-04-27 23:59:59'
-  timezone: UTC-12
-  date: September 18-23, 2022
-  place: Seattle, WA, USA
-  sub: DM
-  note: ''
   
 - title: WSDM
   hindex: 
@@ -91,18 +55,6 @@
   timezone: UTC-12
   date: September 4-8, 2023
   place: Helsinki, Finland
-  sub: SP
-  note: ''
-
-- title: IEEE SPAWC
-  hindex:
-  year: 2022
-  id: spawc22
-  link: https://2022.ieeespawc.org/
-  deadline: '2022-03-01 23:59:59'
-  timezone: UTC-12
-  date: July 4-6, 2022
-  place: Oulu, Finland
   sub: SP
   note: ''
   
@@ -165,19 +117,6 @@
   place: Washington, DC, USA
   sub: ML
   note: 'August 8, 2021: Abstracts due'
-
-- title: ICAPS
-  hindex: 28
-  year: 2022
-  id: icaps22
-  link: http://icaps22.icaps-conference.org/
-  deadline: '2021-12-15 23:59:59'
-  abstract_deadline: '2021-12-10 23:59:59'
-  timezone: UTC-12
-  date: June 19-24, 2022
-  place: Singapore Management University, Singapore
-  sub: ML
-  note: ''
     
 - title: SIGIR
   hindex: 57
@@ -190,19 +129,6 @@
   place: Madrid
   abstract_deadline: '2022-01-21 23:59:00'
   sub: DM
-  
-- title: AAMAS
-  hindex: 25
-  year: 2022
-  id: aamas22
-  link: https://aamas2022-conference.auckland.ac.nz/
-  deadline: '2021-10-08 23:59:59'
-  abstract_deadline: '2020-10-01 23:59:59'
-  timezone: UTC-12
-  date: May 11-13, 2021
-  place: Auckland, New Zealand
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Oct 01, 2021.'
   
 - title: ICPR
   hindex: 38
