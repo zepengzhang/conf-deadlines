@@ -1,16 +1,4 @@
 ---
-- title: ALT
-  hindex:
-  year: 2022
-  id: alt2022
-  link: http://algorithmiclearningtheory.org/alt2022/
-  deadline: '2021-10-05 23:59:59'
-  timezone: UTC-05
-  date: March 28- April 1, 2022
-  place:  Paris, France
-  sub: LT
-  note: ''
-
 - title: CIKM
   hindex: 48
   year: 2022
@@ -94,17 +82,6 @@
   sub: DM
   note: ''
   
-- title: ICCC
-  hindex: 22
-  year: 2021
-  id: iccc21
-  link: http://computationalcreativity.net/iccc21/
-  deadline: '2021-06-21 23:59:59'
-  timezone: UTC-12
-  date: September 14-18, 2021
-  place: Online
-  sub: ML
-  
 - title: EUSIPCO
   hindex:
   year: 2023
@@ -153,30 +130,6 @@
   sub: SP
   note: ''
 
-- title: IEEE SAM
-  hindex:
-  year: 2022
-  id: ieeesam22
-  link: https://attend.ieee.org/sam-2022/
-  deadline: '2022-02-02 23:59:59'
-  timezone: UTC-12
-  date: June 20-23, 2022
-  place: NTNU, Norway
-  sub: SP
-  note: ''
-
-- title: IEEE CAMSAP
-  hindex:
-  year: 2023
-  id: ieeecamsap23
-  link: https://www.nt.tuwien.ac.at/camsap-2021/
-  deadline: '2023-07-19 23:59:59'
-  timezone: UTC-12
-  date: December 12-15, 2023
-  place: Costa Rica
-  sub: SP
-  note: ''
-
 - title: IEEE DSLW
   hindex:
   year: 2022
@@ -199,66 +152,6 @@
   date: October 30 - November 02, 2022
   place: Pacific Grove, CA, USA
   sub: SP
-  note: ''
-
-- title: IEEE ISIT
-  hindex:
-  year: 2023
-  id: ieeeisit23
-  link: https://www.isit2023.org/
-  deadline: '2023-01-03 23:59:59'
-  timezone: UTC-12
-  date: June 25-30, 2023
-  place: Taipei, Taiwan
-  sub: IT
-  note: ''
-  
-- title: CISS
-  hindex:
-  year: 2022
-  id: ciss22
-  link: https://ee-ciss.princeton.edu/
-  deadline: '2021-12-01 23:59:59'
-  timezone: UTC-12
-  date: March 9-11, 2022
-  place: Princeton
-  sub: IT
-  note: ''
-
-- title: ITA
-  hindex:
-  year: 2021
-  id: ita21
-  link: https://ita.ucsd.edu/ws/
-  deadline: '2021-01-01 23:59:59'
-  timezone: UTC-12
-  date: February 7–12, 2021
-  place: Pacific Beach, San Diego
-  sub: IT
-  note: ''
-  
-- title: IEEE ITW
-  hindex: 28
-  year: 2021
-  id: ieeeitw21
-  link: http://itw2021.org/
-  deadline: '2021-04-01 23:59:59'
-  timezone: UTC-12
-  date: October 17-21, 2021
-  place: Kanazawa, Japan
-  sub: IT
-  note: ''
-
-- title: ALLERTON
-  hindex:
-  year: 2021
-  id: allerton21
-  link: https://allerton.csl.illinois.edu/
-  deadline: '2021-07-06 23:59:59'
-  timezone: UTC-8
-  date: September 29-October 1, 2021
-  place: University of Illinois at Urbana-Champaign, United States
-  sub: IT
   note: ''
 
 - title: AAAI
@@ -285,20 +178,6 @@
   place: Singapore Management University, Singapore
   sub: ML
   note: ''
-
-- title: CHIL
-  hindex: -1
-  year: 2021
-  id: chil21
-  link: https://www.chilconference.org/
-  deadline: '2021-01-14 23:59:59'
-  abstract_deadline: '2021-01-10 23:59:59'
-  timezone: UTC-12
-  date: April 8-10, 2021
-  place: Online
-  sub: ML
-  note: '<b>NOTE</b>: Recommended abstract deadline on Jan 10, 2021. More info <a
-    href=''https://www.chilconference.org''>here</a>.'
     
 - title: SIGIR
   hindex: 57
@@ -397,17 +276,6 @@
   sub: ML
   note: 'ddl TBD'
 
-- title: COLT
-  hindex: 48
-  year: 2022
-  id: colt22
-  link: http://learningtheory.org/colt2022/
-  date: July 2-5, 2020
-  deadline: '2022-02-09 16:00:00'
-  timezone: America/Los_Angeles
-  place: London, UK
-  sub: ML
-
 - title: ICML
   hindex: 135
   year: 2023
@@ -480,19 +348,6 @@
   timezone: UTC-12
   date: September 19-23, 2022
   place: Grenoble, France
-  sub: ML
-  note: ''
-
-- title: UAI
-  hindex:
-  year: 2022
-  id: uai2022
-  link: https://www.auai.org/uai2022/
-  deadline: '2022-02-25 23:59:59'
-  abstract_deadline: ''
-  timezone: UTC-12
-  date: August 1-5, 2022
-  place: Netherland
   sub: ML
   note: ''
   
