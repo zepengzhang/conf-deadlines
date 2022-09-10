@@ -4,11 +4,5 @@
   sub: ML
 - name: Data Mining
   sub: DM
-- name: Learning Theory
-  sub: LT
 - name: Signal Processing
   sub: SP
-- name: Information Theory
-  sub: IT
-- name: Optimization
-  sub: OPT
