@@ -155,15 +155,15 @@
 
 - title: AISTATS
   hindex: 52
-  year: 2022
-  id: aistats22
-  link: http://aistats.org/aistats2022/
-  deadline: '2021-10-15 08:00:00'
+  year: 2023
+  id: aistats23
+  link: https://aistats.org/aistats2023/
+  deadline: '2022-10-13 08:00:00'
   timezone: America/Los_Angeles
-  date: March 30 - April 1, 2022
-  place: Valencia, Spain
+  date: March 30 - April 1, 2023
+  place: US
   sub: ML
-  note: 'Abstract deadline on Oct 8, 2021.'
+  note: 'Abstract deadline on Oct 6, 2022.'
 
 - title: IEEE ICASSP
   hindex: 80
@@ -254,15 +254,15 @@
   
 - title: SDM
   hindex: 
-  year: 2022
-  id: sdm22
-  link: https://www.siam.org/conferences/cm/conference/sdm22
-  deadline: '2021-10-12 23:59:59'
+  year: 2023
+  id: sdm23
+  link: https://www.siam.org/conferences/cm/conference/sdm23
+  deadline: '2022-10-07 23:59:59'
   timezone: UTC-11
-  date: April 28 - 30, 2022
-  place: Alexandria, Virginia, U.S.
+  date: April 27 - 29, 2023
+  place: Minneapolis, Minnesota, U.S.
   sub: DM
-  note: ''
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Sep 30, 2022.'
   
 - title: ECML PKDD
   hindex: 30
