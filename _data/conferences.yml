@@ -194,26 +194,26 @@
   year: 2023
   id: ijcai23
   link: https://ijcai-23.org/
-  deadline: '2023-01-14 23:59:59'
-  abstract_deadline: '2023-01-07 23:59:59'
+  deadline: '2023-01-18 23:59:59'
+  abstract_deadline: '2023-01-11 23:59:59'
   timezone: UTC-12
-  date: August, 2023
+  date: August 19-25, 2023
   place: Cape Town, South Africa
   sub: ML
-  note: 'ddl TBD'
+  note: ''
 
 - title: ICML
   hindex: 135
   year: 2023
   id: icml23
   link: https://icml.cc/Conferences/2022
-  deadline: '2023-01-27 23:59:00'
+  deadline: '2023-01-26 23:59:00'
   abstract_deadline: '2023-01-20 23:59:00'
   timezone: UTC-12
-  date: July 24-30, 2023
-  place: Seoul, South Korea 
+  date: July 23-29, 2023
+  place: Hawaii
   sub: ML
-  note: '<b>NOTE</b>: ddl TBD; Mandatory abstract deadline on Jan 20, 2022.'
+  note: '<b>NOTE</b>:Mandatory abstract deadline on Jan 20, 2023.'
   
 - title: LOG
   hindex: 
