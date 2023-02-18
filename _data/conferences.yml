@@ -1,16 +1,16 @@
 ---
 - title: CIKM
   hindex: 48
-  year: 2022
-  id: cikm22
-  link: https://www.cikm2022.org/
-  deadline: '2022-05-16 23:59:59'
-  abstract_deadline: '2022-05-09 23:59:59'
+  year: 2023
+  id: cikm23
+  link: https://cikm2023.github.io/
+  deadline: '2023-05-16 23:59:59'
+  abstract_deadline: '2023-05-09 23:59:59'
   timezone: UTC-12
-  date: October 17-22, 2022
-  place: Atlanta, Georgia
+  date: October 21-25, 2023
+  place: Birmingham, UK
   sub: DM
-  note: ''
+  note: 'ddl TBD'
  
 - title: ICDE
   hindex: 
@@ -84,12 +84,12 @@
 
 - title: Asilomar
   hindex:
-  year: 2022
-  id: asilomar22
+  year: 2023
+  id: asilomar23
   link: https://www.asilomarsscconf.org/
-  deadline: '2022-04-29 23:59:59'
+  deadline: '2023-05-01 23:59:59'
   timezone: UTC-12
-  date: October 30 - November 02, 2022
+  date: October 29 – November 1, 2023
   place: Pacific Grove, CA, USA
   sub: SP
   note: ''
@@ -267,13 +267,13 @@
   
 - title: NeurIPS
   hindex: 169
-  year: 2022
-  id: neurips22
-  link: https://nips.cc/
-  deadline: '2022-05-19 00:00:00'
-  abstract_deadline: '2022-05-16 13:00:00'
+  year: 2023
+  id: neurips23
+  link: https://nips.cc/Conferences/2023
+  deadline: '2023-05-17 00:00:00'
+  abstract_deadline: '2023-05-11 13:00:00'
   timezone: America/Los_Angeles
-  date: November 26 – December 4, 2022
+  date: December 12, 2023
   place: The New Orleans Convention Center
   sub: ML
   note: ''
