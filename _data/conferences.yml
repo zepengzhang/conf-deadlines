@@ -48,13 +48,13 @@
   
 - title: EUSIPCO
   hindex:
-  year: 2023
-  id: eusipco23
-  link: http://eusipco2023.org/
-  deadline: '2023-03-10 23:59:59'
+  year: 2024
+  id: eusipco24
+  link: https://eusipcolyon.sciencesconf.org/
+  deadline: '2024-02-26 23:59:59'
   timezone: UTC-12
-  date: September 4-8, 2023
-  place: Helsinki, Finland
+  date: August 26–30, 2024
+  place: Lyon, France
   sub: SP
   note: ''
   
@@ -120,13 +120,13 @@
   
 - title: ICPR
   hindex: 38
-  year: 2023
-  id: icpr23
-  link: https://icpr2022.be/
+  year: 2024
+  id: icpr24
+  link: https://icpr2024.org/
   deadline: '2022-12-10 23:59:00'
   timezone: UTC+1
-  date: June 4-7, 2023
-  place: Ghent, Belgium
+  date: December 1-5, 2024
+  place: Kolkata, India
   sub: ML
   
 - title: ICLR
@@ -192,16 +192,16 @@
 
 - title: ICML
   hindex: 135
-  year: 2023
-  id: icml23
-  link: https://icml.cc/Conferences/2022
-  deadline: '2023-01-26 23:59:00'
-  abstract_deadline: '2023-01-20 23:59:00'
+  year: 2024
+  id: icml24
+  link: https://icml.cc/Conferences/2024
+  deadline: '2024-01-26 23:59:00'
+  abstract_deadline: '2024-01-20 23:59:00'
   timezone: UTC-12
-  date: July 23-29, 2023
-  place: Hawaii
+  date: July 21-27, 2024
+  place: Vienna, Austria
   sub: ML
-  note: '<b>NOTE</b>:Mandatory abstract deadline on Jan 20, 2023.'
+  note: '<b>NOTE</b>:ddl TBD, Mandatory abstract deadline on Jan 20, 2023.'
   
 - title: LOG
   hindex: 
