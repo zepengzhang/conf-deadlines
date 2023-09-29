@@ -179,16 +179,16 @@
 
 - title: IJCAI
   hindex: 67
-  year: 2023
-  id: ijcai23
+  year: 2024
+  id: ijcai24
   link: https://ijcai-23.org/
-  deadline: '2023-01-18 23:59:59'
-  abstract_deadline: '2023-01-11 23:59:59'
+  deadline: '2024-01-18 23:59:59'
+  abstract_deadline: '2024-01-11 23:59:59'
   timezone: UTC-12
-  date: August 19-25, 2023
-  place: Cape Town, South Africa
+  date: August 03-09, 2024
+  place: Jeju Island, South Korea
   sub: ML
-  note: ''
+  note: 'ddl TBD'
 
 - title: ICML
   hindex: 135
