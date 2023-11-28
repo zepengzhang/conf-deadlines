@@ -70,6 +70,18 @@
   sub: SP
   note: ''
 
+- title: GSP
+  hindex:
+  year: 2024
+  id: gsp24
+  link: https://gspworkshop.org/
+  deadline: '2024-03-15 23:59:59'
+  timezone: UTC-12
+  date: June 24‐26, 2024
+  place: Delft, The Netherlands
+  sub: SP
+  note: ''
+
 - title: IEEE SSP
   hindex:
   year: 2023
