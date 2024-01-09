@@ -60,13 +60,13 @@
   
 - title: IEEE MLSP
   hindex:
-  year: 2023
-  id: mlsp23
-  link: https://2023.ieeemlsp.org/
-  deadline: '2023-04-28 23:59:59'
+  year: 2024
+  id: mlsp24
+  link: https://2024.ieeemlsp.org/
+  deadline: '2024-04-30 23:59:59'
   timezone: UTC-12
-  date: September 17‐20, 2023
-  place: Rome, Italy
+  date: September 22‐25, 2024
+  place: London, UK
   sub: SP
   note: ''
 
@@ -167,15 +167,15 @@
 
 - title: IEEE ICASSP
   hindex: 80
-  year: 2023
-  id: icassp23
-  link: https://2023.ieeeicassp.org/
-  deadline: '2022-10-19 23:59:59'
+  year: 2025
+  id: icassp25
+  link: https://2025.ieeeicassp.org/
+  deadline: '2024-08-19 23:59:59'
   timezone: UTC
-  date: June 4 - 9, 2023
-  place: Rhodes, Greece
+  date: April 6 - 11, 2023
+  place: Hyderabad, India
   sub: SP
-  note: ''
+  note: 'ddl TBA'
 
 - title: WWW
   hindex: 70
@@ -242,13 +242,13 @@
 
 - title: ICDM
   hindex: 
-  year: 2022
-  id: icdm22
-  link: https://icdm22.cse.usf.edu/index.html
-  deadline: '2022-06-10 23:59:59'
+  year: 2024
+  id: icdm24
+  link: http://18.133.154.107/
+  deadline: '2024-07-01 23:59:59'
   timezone: UTC-11
-  date: November 30 - December 3, 2022
-  place: Orlando, FL, USA
+  date: December 9 - December 12, 2024
+  place: Abu Dhabi, UAE
   sub: DM
   note: ''
   
