@@ -279,13 +279,13 @@
   
 - title: NeurIPS
   hindex: 169
-  year: 2023
-  id: neurips23
+  year: 2024
+  id: neurips24
   link: https://nips.cc/Conferences/2023
-  deadline: '2023-05-17 00:00:00'
-  abstract_deadline: '2023-05-11 13:00:00'
+  deadline: '2024-05-17 00:00:00'
+  abstract_deadline: '2024-05-11 13:00:00'
   timezone: America/Los_Angeles
   date: December 12, 2023
-  place: The New Orleans Convention Center
+  place: Vancouver
   sub: ML
-  note: ''
+  note: 'ddl TBA'
