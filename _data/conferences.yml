@@ -292,11 +292,11 @@
   hindex: 169
   year: 2024
   id: neurips24
-  link: https://nips.cc/Conferences/2023
-  deadline: '2024-05-17 00:00:00'
-  abstract_deadline: '2024-05-11 13:00:00'
+  link: https://nips.cc/Conferences/2024
+  deadline: '2024-05-22 00:00:00'
+  abstract_deadline: '2024-05-15 13:00:00'
   timezone: America/Los_Angeles
-  date: December 12, 2023
+  date: December 9-15, 2024
   place: Vancouver
   sub: ML
-  note: 'ddl TBA'
+  note: ''
