@@ -2,15 +2,15 @@
   
 - title: EUSIPCO
   hindex:
-  year: 2024
-  id: eusipco24
-  link: https://eusipcolyon.sciencesconf.org/
-  deadline: '2024-02-26 23:59:59'
+  year: 2025
+  id: eusipco25
+  link: https://eusipco2025.org/
+  deadline: '2025-02-26 23:59:59'
   timezone: UTC-12
-  date: August 26–30, 2024
-  place: Lyon, France
+  date: September 8–12, 2025
+  place: Palermo, Italy
   sub: SP
-  note: ''
+  note: 'ddl TBD'
   
 - title: IEEE MLSP
   hindex:
@@ -50,15 +50,15 @@
 
 - title: AAAI
   hindex: 95
-  year: 2023
-  id: aaai23
-  link: https://aaai.org/Conferences/AAAI-23
-  deadline: '2022-08-15 23:59:59'
+  year: 2025
+  id: aaai25
+  link: https://aaai.org/aaai-conference/
+  deadline: '2024-08-15 23:59:59'
   timezone: UTC-12
-  date: February 7-14, 2023
-  place: Washington, DC, USA
+  date: February 7-14, 2025
+  place: Philadelphia, PA, USA
   sub: ML
-  note: 'August 8, 2021: Abstracts due'
+  note: 'ddl/time TBD'
 
 - title: IEEE ICASSP
   hindex: 80
@@ -72,42 +72,30 @@
   sub: SP
   note: 'ddl TBA'
 
-- title: WWW
-  hindex: 70
-  year: 2023
-  id: www23
-  link: https://www2023.thewebconf.org/
-  deadline: '2022-10-13 23:59:59'
-  timezone: UTC-12
-  date: MAY 1-5, 2023
-  place: AUSTIN, TEXAS, USA
-  sub: DM
-  note: '<b>NOTE</b>: Mandatory abstract deadline on October 06, 2022.'
-
 - title: IJCAI
   hindex: 67
-  year: 2024
-  id: ijcai24
+  year: 2025
+  id: ijcai25
   link: https://ijcai24.org/
-  deadline: '2024-01-17 23:59:59'
-  abstract_deadline: '2024-01-10 23:59:59'
+  deadline: '2025-01-17 23:59:59'
+  abstract_deadline: '2025-01-10 23:59:59'
   timezone: UTC-12
-  date: August 03-09, 2024
-  place: Jeju Island, South Korea
+  date: August 03-09, 2025
+  place: Montreal, Canada
   sub: ML
-  note: ''
+  note: 'dll/time TBD'
 
 - title: SIGKDD/KDD
   hindex: 30
-  year: 2023
-  id: kdd23
-  link: https://kdd.org/kdd2023/
-  deadline: '2023-02-02 23:59:59'
+  year: 2025
+  id: kdd25
+  link: https://kdd2024.kdd.org/
+  deadline: '2024-08-08 23:59:59'
   timezone: UTC-11
-  date: August 06-10, 2023
-  place: Long Beach, CA
+  date: August 25-29, 2025
+  place: Barcelona, Spain
   sub: DM
-  note: ''
+  note: 'place TBD, abstract ddl 08-01'
   
 - title: NeurIPS
   hindex: 169
@@ -124,50 +112,37 @@
 
 - title: ICML
   hindex: 135
-  year: 2024
-  id: icml24
+  year: 2025
+  id: icml25
   link: https://icml.cc/Conferences/2024
-  deadline: '2024-02-01 23:59:00'
-  abstract_deadline: '2024-01-23 23:59:00'
+  deadline: '2025-02-01 23:59:00'
+  abstract_deadline: '2025-01-23 23:59:00'
   timezone: UTC-12
-  date: July 21-27, 2024
-  place: Vienna, Austria
+  date: July 21-27, 2025
+  place: Vancouver, BC, Canada
   sub: ML
-  note: '<b>NOTE</b>:'
+  note: '<b>NOTE</b>: ddl and time TBD'
 
 - title: ICLR
   hindex: 150
-  year: 2023
-  id: iclr23
+  year: 2024
+  id: iclr24
   link: http://iclr.cc/
-  deadline: '2022-09-28 07:59:59'
+  deadline: '2023-09-28 07:59:59'
   timezone: UTC-7
-  date: May 1-5, 2023
-  place: Kigali, Rwanda, Africa
+  date: May 1-5, 2024
+  place: Vienna, Austria
   sub: ML
-  note: 'Abstract deadline on Sep 21, 2021.'
+  note: 'Abstract deadline on Sep 21, 2023.'
 
 - title: AISTATS
   hindex: 52
-  year: 2023
-  id: aistats23
-  link: https://aistats.org/aistats2023/
-  deadline: '2022-10-13 08:00:00'
+  year: 2024
+  id: aistats24
+  link: https://aistats.org/aistats2024/
+  deadline: '2023-10-16 08:00:00'
   timezone: America/Los_Angeles
-  date: March 30 - April 1, 2023
-  place: US
+  date: May 2 - 4, 2024
+  place: Valencia, Spain
   sub: ML
-  note: 'Abstract deadline on Oct 6, 2022.'
-  
-- title: LOG
-  hindex: 
-  year: 2022
-  id: log22
-  link: https://logconference.github.io/
-  deadline: '2022-09-16 23:59:00'
-  abstract_deadline: '2022-09-09 23:59:00'
-  timezone: UTC-12
-  date: December 09-12, 2022
-  place: Virtual
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Sep 09, 2022.'
+  note: ''
