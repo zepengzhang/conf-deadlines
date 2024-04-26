@@ -65,12 +65,12 @@
   year: 2025
   id: icassp25
   link: https://2025.ieeeicassp.org/
-  deadline: '2024-08-19 23:59:59'
+  deadline: '2024-08-28 23:59:59'
   timezone: UTC
   date: April 6 - 11, 2023
   place: Hyderabad, India
   sub: SP
-  note: 'ddl TBA'
+  note: ''
 
 - title: IJCAI
   hindex: 67
