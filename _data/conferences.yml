@@ -60,6 +60,18 @@
   sub: ML
   note: ''
 
+- title: LOG
+  hindex: 
+  year: 2024
+  id: log24
+  link: https://logconference.org/
+  deadline: '2024-09-11 23:59:59'
+  timezone: UTC-12
+  date: November 26- 29, 2024
+  place: Virtual
+  sub: ML
+  note: ''
+
 - title: IEEE ICASSP
   hindex: 80
   year: 2025
